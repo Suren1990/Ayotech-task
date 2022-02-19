@@ -62,4 +62,7 @@ main {
   width: 280px;
 }
 
-
+.hovered_squares_items {
+  max-height: 530px;
+  overflow-y: auto;
+}
